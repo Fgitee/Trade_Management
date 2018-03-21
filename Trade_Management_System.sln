@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trade_Management_System", "Trade_Management_System\Trade_Management_System.csproj", "{6414A93C-F2A0-4B4D-AD02-A0AEFE84F05A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6414A93C-F2A0-4B4D-AD02-A0AEFE84F05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6414A93C-F2A0-4B4D-AD02-A0AEFE84F05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6414A93C-F2A0-4B4D-AD02-A0AEFE84F05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6414A93C-F2A0-4B4D-AD02-A0AEFE84F05A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B89BE2AD-50A1-4BE4-AD2A-4516BBD38DF6}
+	EndGlobalSection
+EndGlobal
